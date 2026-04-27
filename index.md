@@ -3,9 +3,7 @@
 layout: default
 ---
 
-layout: default
-title: COMP110 Survey Analysis
----
+
 
 # COMP110 Data Analysis: Course Pace and Prior Experience
 
